@@ -15,42 +15,51 @@
 
 ## About Me
 
-DevOps Engineer with 4+ years of hands-on experience in cloud infrastructure operations, automation, and reliability engineering. I work primarily with Microsoft Azure, Linux systems, CI/CD pipelines, monitoring, and infrastructure as code to support mission-critical telecom and enterprise workloads.
+I am a DevOps Engineer with 4+ years of hands-on experience in cloud infrastructure, Linux administration, automation, and continuous delivery. I specialize in Microsoft Azure environments, CI/CD pipelines, infrastructure automation, monitoring, and maintaining reliable production systems.
 
-I enjoy building resilient systems, reducing deployment friction, and improving operational efficiency through automation, observability, and proactive incident response.
+I enjoy building efficient, scalable, and stable cloud workflows that help teams deploy faster and operate with confidence.
 
-## Core Expertise
+## Core Skills
 
-- ☁️ Cloud Infrastructure: Azure, Linux Server Administration
-- 🔄 CI/CD: Azure Pipelines, Azure DevOps, Jenkins, GitHub Actions
+- ☁️ Cloud Infrastructure: Microsoft Azure, Linux-based systems
+- 🔄 CI/CD: Azure Pipelines, Azure DevOps, Jenkins, GitHub
 - 🏗️ Infrastructure as Code: Terraform
-- 🐳 Containers: Kubernetes basics, Docker
-- 📈 Monitoring & Observability: Nagios, Grafana, Azure Monitor
-- 🛠️ Scripting: Bash, YAML, JSON, Python basics, SQL
-- 🚨 Operations: Incident Management, RCA, ITIL-driven support, SLA monitoring
-- 🌐 Networking: DNS, TCP/IP, Firewall troubleshooting
+- 🐳 Containers: Kubernetes, Docker
+- 📈 Monitoring: Nagios, Grafana, Azure Monitor
+- 🛠️ Automation: Bash scripting, YAML, JSON, Python basics, SQL
+- 🌐 Networking: DNS, TCP/IP, firewall troubleshooting
+- 🔐 Operations: Incident response, root cause analysis, proactive monitoring
 
-## Experience Snapshot
+## Professional Experience
 
-### Current Role
+### DevOps Engineer
+Reliance Pro & Property Manpower Service Ltd  
+Project: Jio Indigenous 5G-RAN Testing, iMG-CA
 
-- DevOps Engineer at Reliance Pro & Property Manpower Service Ltd
-- Supporting cloud-based telecom (5G-RAN) infrastructure on Microsoft Azure
-- Managing production reliability, monitoring, CI/CD workflows, and Linux system health
+- Supported and maintained cloud-based telecom infrastructure on Microsoft Azure
+- Built and improved CI/CD pipelines using Azure Pipelines, Jenkins, and GitHub
+- Automated infrastructure provisioning with Terraform
+- Monitored system health and performance using Nagios, Grafana, and Azure Monitor
+- Assisted with Kubernetes workload health checks and container operations
+- Worked closely with DevOps, network, and application teams to enable smooth deployments
+- Strengthened system reliability through proactive monitoring and operational excellence
 
-### Previous Experience
+### Cloud Support Engineer
+Integrated Wireless Solution  
+Client: Jio QA RANCORE
 
-- Cloud Support Engineer at Integrated Wireless Solution
-- System Engineer roles in telecom and utility IT environments
-- Hands-on support for Azure resources, monitoring tools, incident response, and operational documentation
+- Provided support for cloud-based telecom infrastructure in a 5G environment
+- Managed Azure resources and ensured continuous service availability
+- Monitored performance and supported operational stability for critical systems
+- Contributed to incident handling and preventive actions for improved reliability
 
-## What I Focus On
+## What I Do Best
 
-- Automating repetitive operations and deployments
-- Keeping production systems healthy, monitored, and resilient
-- Building scalable infrastructure using Terraform and cloud-native practices
-- Supporting fast-paced teams with strong troubleshooting and collaboration
-- Improving system observability and incident response time
+- Automating repetitive operational tasks
+- Improving deployment pipelines and release efficiency
+- Managing cloud infrastructure with a focus on stability and performance
+- Supporting teams with Linux administration and system troubleshooting
+- Building reliable monitoring and observability workflows
 
 ## Tech Stack
 
@@ -82,14 +91,14 @@ I enjoy building resilient systems, reducing deployment friction, and improving 
 
 </div>
 
-## Connect With Me
+## Let's Connect
 
 - Email: er.abhay216@gmail.com
 - Phone: +91-7979771173
 - Location: Navi Mumbai, India
 - LinkedIn: [Abhay Kumar](https://www.linkedin.com/in/abhay-kumar-216/)
 
-> “I’m passionate about building reliable cloud systems, automating operations, and continuously learning in the DevOps space.”
+> “Passionate about building reliable systems, simplifying operations, and continuously learning in the cloud and DevOps space.”
 
 ---
 
